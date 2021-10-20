@@ -2,7 +2,6 @@
 👀 I’m interested in all web stuff (frontend, backend)
 🌱 I’m currently learning:
               Javascript
-💞️ I’m looking to collaborate on ...
 📫 How to reach me ...
 
 <!---
